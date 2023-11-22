@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Karl+dale+arriba" target="__blank">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Karl+dale+arriba" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Philippines!</b> 」
     <br>
